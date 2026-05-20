@@ -1,0 +1,98 @@
+EngineFactory: creating new Engine(105, Petrol)
+WheelFactory: creating new Wheel(17)
+EngineFactory: reusing existing Engine(105, Petrol)
+WheelFactory: reusing existing Wheel(17)
+EngineFactory: creating new Engine(140, Diesel)
+WheelFactory: reusing existing Wheel(17)
+Creating Car@6a03bb02
+Car:
+type=Sedan,
+carColor=White,
+engine=Engine{power=140, fuel=Diesel},
+wheel=Wheel{material=Steel, diameter=17}
+
+Engines in cache: 2, Wheels in cache: 1
+EngineFactory: reusing existing Engine(105, Petrol)
+WheelFactory: reusing existing Wheel(17)
+EngineFactory: creating new Engine(120, Diesel)
+WheelFactory: creating new Wheel(19)
+Creating Car@1b1fc396
+Car:
+type=Sedan,
+carColor=Grey,
+engine=Engine{power=120, fuel=Diesel},
+wheel=Wheel{material=Steel, diameter=19}
+
+Engines in cache: 3, Wheels in cache: 2
+EngineFactory: reusing existing Engine(105, Petrol)
+WheelFactory: reusing existing Wheel(17)
+EngineFactory: creating new Engine(120, Electric)
+WheelFactory: reusing existing Wheel(19)
+Creating Car@76ea7cc8
+Car:
+type=Sedan,
+carColor=Grey,
+engine=Engine{power=120, fuel=Electric},
+wheel=Wheel{material=Steel, diameter=19}
+
+Engines in cache: 4, Wheels in cache: 2
+EngineFactory: reusing existing Engine(105, Petrol)
+WheelFactory: reusing existing Wheel(17)
+EngineFactory: creating new Engine(130, Petrol)
+WheelFactory: reusing existing Wheel(19)
+Creating Car@468bb2ca
+Car:
+type=Sedan,
+carColor=Red,
+engine=Engine{power=130, fuel=Petrol},
+wheel=Wheel{material=Steel, diameter=19}
+
+Engines in cache: 5, Wheels in cache: 2
+EngineFactory: reusing existing Engine(105, Petrol)
+WheelFactory: reusing existing Wheel(17)
+EngineFactory: reusing existing Engine(120, Diesel)
+WheelFactory: reusing existing Wheel(17)
+Creating Car@3a487ad1
+Car:
+type=Sedan,
+carColor=Grey,
+engine=Engine{power=120, fuel=Diesel},
+wheel=Wheel{material=Steel, diameter=17}
+
+Engines in cache: 5, Wheels in cache: 2
+EngineFactory: reusing existing Engine(105, Petrol)
+WheelFactory: reusing existing Wheel(17)
+EngineFactory: creating new Engine(140, Electric)
+WheelFactory: reusing existing Wheel(17)
+Creating Car@5fae1d7d
+Car:
+type=Sedan,
+carColor=Grey,
+engine=Engine{power=140, fuel=Electric},
+wheel=Wheel{material=Steel, diameter=17}
+
+Engines in cache: 6, Wheels in cache: 2
+EngineFactory: reusing existing Engine(105, Petrol)
+WheelFactory: reusing existing Wheel(17)
+EngineFactory: creating new Engine(130, Electric)
+WheelFactory: reusing existing Wheel(19)
+Creating Car@7a07267c
+Car:
+type=Sedan,
+carColor=Red,
+engine=Engine{power=130, fuel=Electric},
+wheel=Wheel{material=Steel, diameter=19}
+
+Engines in cache: 7, Wheels in cache: 2
+EngineFactory: reusing existing Engine(105, Petrol)
+WheelFactory: reusing existing Wheel(17)
+EngineFactory: reusing existing Engine(120, Electric)
+WheelFactory: reusing existing Wheel(19)
+Creating Car@6101c614
+Car:
+type=Sedan,
+carColor=Grey,
+engine=Engine{power=120, fuel=Electric},
+wheel=Wheel{material=Steel, diameter=19}
+
+Engines in cache: 7, Wheels in cache: 2
